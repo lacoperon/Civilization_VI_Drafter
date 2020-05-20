@@ -1,0 +1,231 @@
+>>> FOR JASPER
+Country 1: Zulu (Shaka)
+-- Country Ability: 'Isibongo'
+Cities with a garrisoned unit get +3 Loyalty per turn or +5 if it is a Corps or Army. Conquering a city with a unit will upgrade it into a Corps or Army if the proper Civics are unlocked.
+-- Leader Ability: 'Amabutho''
+May form Corps (Mercenaries Civic) and Armies (Nationalism Civic) earlier. An additional +5 Base Combat Strength to both Corps and Armies.'
+
+
+Country 2: Spain (Philip II)
+-- Country Ability: 'Treasure Fleet'
+May form Fleets and Armadas earlier than usual (Mercantilism). Trade Routes between multiple continents receive bonus Gold for routes to other civilizations and bonus Food and Production for routes between your own cities with a Mission improvement adjacent to the City Center and not on your original Capital’s continent.
+-- Leader Ability: 'El Escorial''
+Inquisitors can Remove Heresy one extra time. Combat units have a bonus of +4 Combat Strength against players following other Religions.'
+
+
+Country 3: Macedon (Alexander)
+-- Country Ability: 'Hellenistic Fusion'
+Receive boosts upon city conquest: a Eureka for each Encampment or Campus in the conquered city and an Inspiration for each Holy Site or Theater Square.
+-- Leader Ability: 'To World’s End''
+Cities do not incur war weariness. All military units heal completely when this player captures a city with a world wonder.'
+
+
+Country 4: Scythia (Tomyris)
+-- Country Ability: 'People of the Steppe'
+Receive a second light cavalry unit or Saka Horse Archer each time you train a light cavalry unit or Saka Horse Archer.
+-- Leader Ability: 'Killer of Cyrus''
+All units receive +5 Combat Strength when attacking wounded units. When they eliminate a unit they heal up to 30 hit points.'
+
+
+>>> FOR JASON
+Country 1: Gran Colombia (Simon Bolivar)
+-- Country Ability: 'Ejercito Patriota'
++1 Movement for all units. Promoting a unit does not end its turn
+-- Leader Ability: 'Campana Admirable''
+Gains unique Comandante General each time you enter a new era'
+
+
+Country 2: Hungary (Corvinius)
+-- Country Ability: 'Pearl of the Danube'
++50% Production for districts and building built across a river from a City Center.
+-- Leader Ability: 'Raven King''
+Levied city-state units receive +2 Movement and +5 Combat Strength and can be upgraded at no cost in Gold or resources. Levying troops from a city-state grants 2 Envoys with that city city-state. Gain the Black Army unique unit with Castles.'
+
+
+Country 3: Scotland (Robert the Bruce)
+-- Country Ability: 'Scottish Enlightenment'
+Happy cities receive an additional +5% Science and +5% Production. Happy cities generate +1 Great Scientist point per Campus and +1 Great Engineer point per Industrial Zone. Ecstatic cities double all these amounts.
+-- Leader Ability: 'Bannockburn''
+Can declare a War of Liberation after gaining the Defensive Tactic Civic. +100% Production and +2 Movement for the first 10 turns after declaring War of Liberation.'
+
+
+Country 4: England (Victoria)
+-- Country Ability: 'British Museum'
+Each Archaeological Museum holds 6 Artifacts instead of 3 and can support 2 Archaeologists at once. Archaeological Museums are automatically themed when they have 6 artifacts.
+-- Leader Ability: 'Pax Britannica''
+All cities founded on a continent other than your home continent receive a free melee unit. After founding constructing a Royal Navy Dockyard there will grant an additional free melee unit. Gain the Redcoat unique unit when the Military Science technology is researched.'
+
+
+>>> FOR CONNOR
+Country 1: India (Chandragupta)
+-- Country Ability: 'Dharma'
+Receives Follower Belief bonuses in a city from each Religion that has at least 1 follower. Cities receive +1 Amenities6 Amenity for each religion with at least one follower in them. +2 Spread Religion charges for Missionaries. +100% Religious pressure from Indian Trade Routes.
+-- Leader Ability: 'Arthashastra''
+Can declare War of Territorial Expansion after gaining the Military Training Civic. +2 Movement and +5 Combat Strength for the first 10 turns after declaring a War of Territorial Expansion.'
+
+
+Country 2: Indonesia (Gitarja)
+-- Country Ability: 'Great Nusantara'
+Coast and Lake tiles provide a minor adjacency bonus for Holy Site Campus Industrial Zone and Theater Square districts. +1 Amenity from entertainment to each Entertainment Complex adjacent to a Coast or Lake tile.
+-- Leader Ability: 'Exalted Goddess of the Three Worlds''
+Naval units can be purchased with Faith. Religious units pay no movement to embark or disembark. +2 Faith to City Centers that are adjacent to Coast or Lake tiles.'
+
+
+Country 3: Cree (Poundmaker)
+-- Country Ability: 'Nihithaw'
++1 Trade Route capacity and a free Trader with the Pottery technology. Unclaimed tiles within 3 tiles of a Cree city come under Cree control when a Trader first moves into them.
+-- Leader Ability: 'Favorable Terms''
+All Alliance types provide Shared Visibility. Your Trade Routes grant +1 Food per Camp or Pasture in the receiving city. Your Trade Routes grant +1 Gold for Poundmaker per Camp or Pasture in the receiving city.'
+
+
+Country 4: Korea (Seondeok)
+-- Country Ability: 'Three Kingdoms'
+Mines receive +1 Science if there is an adjacent Seowon district. Farms receive +1 Food if there is an adjacent Seowon district.
+-- Leader Ability: 'Hwarang''
+Governors established in a city provide +3% Culture and Science for each Promotion they have earned including their first.'
+
+
+>>> FOR ELLIOT
+Country 1: Brazil (Pedro II)
+-- Country Ability: 'Amazon'
+Rainforest tiles provide +1 adjacency bonus for Campus Commercial Hub Holy Site and Theater Square districts. Rainforest tiles provide +1 Housing for Neighborhoods built adjacent to them.
+-- Leader Ability: 'Magnanimous''
+After recruiting or patronizing a Great Person 20% of its Great Person point cost is refunded.'
+
+
+Country 2: France (Eleanor of Aquataine)
+-- Country Ability: 'Grand Tour'
++20% Production toward Medieval Renaissance and Industrial era wonders. Tourism from wonders of any era is doubled.
+-- Leader Ability: 'Court of Love''
+Each Great Work in her cities causes foreign cities within 9 tiles to lose 1 Loyalty per turn. Any foreign city that leaves its civilization due to loss of Loyalty and is receiving the most Loyalty pressure from Eleanor instantly joins her empire instead of becoming a Free City.'
+
+
+Country 3: France (Catherine de Medici)
+-- Country Ability: 'Grand Tour'
++20% Production toward Medieval Renaissance and Industrial era wonders. Tourism from wonders of any era is doubled.
+-- Leader Ability: 'Catherine’s Flying Squadron''
+Has 1 level of Diplomatic Visibility greater than normal with every civilization that she’s met. Receives a free Spy (and extra spy capacity) with the Castles technology. All spies start as Agents with a free promotion.'
+
+
+Country 4: Japan (Hojo Tokimune)
+-- Country Ability: 'Meiji Restoration'
+All districts receive an additional standard adjacency bonus for being adjacent to another district.
+-- Leader Ability: 'Divine Wind''
+Land units receive +5 Combat Strength in land tiles adjacent to Coast; naval units receive +5 Combat Strength in shallow water tiles. Builds Encampment Holy Site and Theater Square districts in half the time.'
+
+
+>>> FOR LIZ
+Country 1: Inca (Pachacuti)
+-- Country Ability: 'Mit’a'
+Citizens may work Mountain Tiles. Mountain tiles provide +2 Production and +1 Food for each adjacent Terrace Farm.
+-- Leader Ability: 'Qhapaq Nan''
+Domestic Trade Routes gain +1 Food for every Mountain in the origin city. Gain the Qhapaq Nan unique improvement with Foreign Trade.'
+
+
+Country 2: Persia (Cyrus)
+-- Country Ability: 'Satrapies'
++1 Trade Route capacity with the Political Philosophy civic. Receive +2 Gold and +1 Culture for routes between your own cities. Roads built in your territory are one level more advanced than usual.
+-- Leader Ability: 'Fall of Babylon''
++2 Movement for the first 10 turns after declaring a Surprise War on a major civilization. +5 Loyalty per turn in occupied cities with a garrisoned unit. Declaring a Surprise War only counts as a Formal War for the purpose of warmongering and war weariness.'
+
+
+Country 3: Aztec (Montezuma)
+-- Country Ability: 'Legend of the Five Suns'
+Spend Builder charges to complete 20% of the original district cost.
+-- Leader Ability: 'Gifts for the Tlatoani''
+Luxury resources for his territory provide an Amenity to 2 extra cities. Military units receive +1 Combat Strength when attacking for each different Luxury resource improved in Aztec lands.'
+
+
+Country 4: China (Qin Shi Huang)
+-- Country Ability: 'Dynastic Cycle'
+ Eurekas and Inspirations provide 50% of civics and technologies instead of 40%.
+-- Leader Ability: 'The First Emperor''
+When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge.'
+
+
+>>> FOR JASPERS_OTHER_FRIEND
+Country 1: Georgia (Tamar)
+-- Country Ability: 'Strength in Unity'
+When making Dedications at the beginning of a Golden Age or Heroic Age receive the Normal Age bonus towards improving Era Score in addition to the other bonus.
+-- Leader Ability: 'Glory of the World Kingdom and Faith''
++100% Faith for 10 turns after declaring a Protectorate War. Each Envoy you send to a city-state of your majority Religion counts as two Envoys. (Must have a majority Religion).'
+
+
+Country 2: Mali (Mansa Musa)
+-- Country Ability: 'Songs of the Jeli'
+City Centers gain +1 Faith and +1 Food for every adjacent Desert and Desert Hills tile. Mines receive +1 Production and +4 Gold. May purchase Commercial Hub buildings with Faith. -30% towards buildings and units.
+-- Leader Ability: 'Sahel Merchants''
+International Trade Routes get +1 Gold for every flat Desert tile in the sending city. Entering a Golden Age permanently grants +1 Trade Route capacity.'
+
+
+Country 3: Poland (Jadwiga)
+-- Country Ability: 'Golden Liberty'
+Building an Encampment or Fort triggers a Culture Bomb claiming surrounding tiles. One Military policy slot in all governments is converted into a Wildcard policy slot.
+-- Leader Ability: 'Lithuanian Union''
+The Religion founded by Poland becomes the majority in an adjacent city that loses a tile to a Polish Culture Bomb. Holy sites gain standard Faith adjacency bonus from adjacent districts. All Relics provide bonus Faith (+2) Culture (+2) and Gold (+4).'
+
+
+Country 4: Netherlands (Wilhelmina)
+-- Country Ability: 'Grote Rivieren'
+Major adjacency bonus for Campuses Theater Squares and Industrial Zones if next to a river. Culture Bomb adjacent tiles when completing a Harbor. +50% Production Production toward the Dam district and Flood Barrier building.
+-- Leader Ability: 'Radio Oranje''
+Your Trade Routes to your own cities provide +1 Loyalty per turn for the starting city. Trade Routes to foreign cities or from foreign cities provide +1 Culture to you.'
+
+
+>>> FOR ANITA
+Country 1: America (Teddy Roosevelt)
+-- Country Ability: 'Founding Fathers'
+All Diplomatic policy slots in the current government are converted to Wildcard policy slots. Gains +1 Diplomatic Favor per turn for every Wildcard slot in their government.
+-- Leader Ability: 'Roosevelt Corollary''
+Units receive +5 Combat Strength on their home continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Rifling technology.'
+
+
+Country 2: Greece (Gorgo)
+-- Country Ability: 'Plato’s Republic'
+One extra wildcard policy slot in any government.
+-- Leader Ability: 'Thermopylae''
+Combat victories provide Culture equal to 50% of the Combat Strength of the defeated unit.'
+
+
+Country 3: Kongo (Mvemba a Nzinga)
+-- Country Ability: 'Nkisi'
++2 Food +2 Production +4 Gold from each Relic Artifact and Sculpture Great Work of Art in addition to the usual Culture. Receive 50% more Great Writer Great Artist Great Musician and Great Merchant points. Palace has slots for 5 Great Work.
+-- Leader Ability: 'Religious Convert''
+May not build Holy Site districts gain Great Prophets or found Religions. Gains all Beliefs of any Religion that has established itself in a majority of his cities.Receives an Apostle each time he finishes a M’banza or Theater Square district (of that city’s majority Religion).'
+
+
+Country 4: Maori (Kupe)
+-- Country Ability: 'Mana'
+Starts with Sailing an Shipbuilding unlocked and the ability to enter Ocean tiles. Embarked units gain +5 Combat Strength and +2 Movement. Unimproved Woods and Rainforests provide +1 Production increasing to +2 with Conservation. Fishing Boats provide +2 Food. Building a Fishing Boat triggers a culture bomb claiming surrounding tiles. Resources cannot be harvested. Great Writers cannot be earned.
+-- Leader Ability: 'Kupe’s Voyage''
+Starts the game in the Ocean. +2 Science and +2 Culture per turn before the first city is settled. Their first settled city receives a free Builder and +1 Population. The Palace grants +3 Housing and +1 Amenity.'
+
+
+>>> FOR JEREMIAH
+Country 1: Australia (John Curtin)
+-- Country Ability: 'Land Down Under'
++3 Housing in coastal cities. Pastures trigger a Culture Bomb. Yields from Campuses Commercial Hubs Holy Sites and Theater Squares are +1 in tiles with Charming Appeal +3 in Breathtaking.
+-- Leader Ability: 'Citadel of Civilization''
++100% Production if either they have received a declaration of war in the past 10 turns or if they have liberated a city in the past 20 turns.'
+
+
+Country 2: Mapuche (Lautaro)
+-- Country Ability: 'Toqui'
+All units trained in cities with an established Governor gain 25% more experience in combat. +10 Combat Strength bonus against civilizations that are in a Golden Age.
+-- Leader Ability: 'Swift Hawk''
+If a Mapuche Unit defeats an enemy unit within the borders of the enemy city that city loses 20 Loyalty. Pillaging a plot in an enemy city causes it to lose 5 loyalty.'
+
+
+Country 3: Sumeria (Gilgamesh)
+-- Country Ability: 'Epic Quests'
+When you capture a Barbarian outpost receive a Tribal Village reward in addition to the usual Gold. Pay half the usual cost to levy city-state units.
+-- Leader Ability: 'Adventures of Enkidu''
+May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe they and their allies share pillage rewards and share combat experience gains if within 5 tiles. Their Alliances gain Alliance Points for being at war with a common foe.'
+
+
+Country 4: Arabia (Saladin)
+-- Country Ability: 'The Last Prophet'
+Automatically receive the final Great Prophet when the next-to-last one is claimed (if you have not earned one already). +1 Science for each foreign city following Arabia's Religion.
+-- Leader Ability: 'Righteousness of the Faith''
+The worship building for their Religion can be purchased by any player for just one-tenth of the usual Faith cost. This worship building is enhanced to add 10% to the Science Faith and Culture output of Arabian cities.'
+

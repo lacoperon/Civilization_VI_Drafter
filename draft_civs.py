@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 
-CIV_DATA_PATH = "leaders.csv"
+CIV_DATA_PATH = "data/leaders.csv"
 # Put the players you want to draft in here
 PLAYERS = [
     "Jasper",
@@ -13,6 +13,7 @@ PLAYERS = [
     "Anita",
     "Jeremiah"
 ]
+NUMBER_OF_DRAFT_OPTIONS_PER_PLAYER = 4
 
 def partition_dataset(civ_df, num_rows_to_sample, with_replacement=False):
     """Returns sampled_df (with `num_rows_to_sample` rows), and
@@ -39,7 +40,7 @@ def partition_dataset(civ_df, num_rows_to_sample, with_replacement=False):
 
     return (sample_df, rest_df)
 
-def draft_civs(players=PLAYERS,options_per_player=4):
+def draft_civs(players=PLAYERS,options_per_player=NUMBER_OF_DRAFT_OPTIONS_PER_PLAYER):
     """Drafts all players in `players`, with `options_per_player`
     civ options per player.
 
@@ -49,6 +50,9 @@ def draft_civs(players=PLAYERS,options_per_player=4):
           our draft?
     """
 
+    print("------- CIVILIZATION VI DRAFTER --------")
+    print(f"Drafting {len(players)} players, with {options_per_player} draft options each...\n")
+
     # These are string builder lists that will contain our draft output
     basic_draft_string_builder = [] # for everyone to see
     detailed_draft_string_builder = [] # for each specific player
@@ -57,11 +61,13 @@ def draft_civs(players=PLAYERS,options_per_player=4):
     civ_df = pd.read_csv(CIV_DATA_PATH)
     civ_df["nice_short_output"] = civ_df["nation"] + " (" + civ_df["leader"] + ")"
 
-    # (we should have only Eleanor of Aquitaine be repeated)
+    # Validates that the leader data is not repeated
     seen_leaders = set()
     for _, row in civ_df.iterrows():
         if row['leader'] in seen_leaders:
-            print(f"Repeated Leader:  {row['leader']}")
+            # We expect Eleanor of Aquitaine to appear twice
+            if "Eleanor" not in row['leader']:
+                print(f"Repeated Leader:  {row['leader']}")
         seen_leaders.add(row['leader'])
 
 
@@ -92,10 +98,13 @@ def draft_civs(players=PLAYERS,options_per_player=4):
     # Outputs the draft strings to files
     basic_file = open("basic_draft.txt", "w")
     basic_file.write("\n".join(basic_draft_string_builder))
+    print("Wrote basic draft information to `basic_draft.txt`")
 
     detailed_file = open("detailed_draft.txt", "w")
     detailed_file.write("\n".join(detailed_draft_string_builder))
+    print("Wrote detailed draft information for each player to `detailed_draft.txt`")
 
+    print("Drafting is done, have a nice day :)")
 
 
 if __name__ == "__main__":

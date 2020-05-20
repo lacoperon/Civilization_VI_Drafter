@@ -23,6 +23,10 @@ Install using:
 
 Run `python3 draft_civs.py` after configuring and you're good :).
 
+Basic drafting information (Civilization + Leader choices) will be output to `basic_draft.txt`.
+
+More detailed info (Unique Abilities + Bonuses) is output within `detailed_draft.txt`.
+
 ## About the Data
 The data used to draft (in `data/leaders.csv`) should be accurate as of the 19th of May, 2020.
 

@@ -92,7 +92,7 @@ def draft_civs(players=PLAYERS,options_per_player=NUMBER_OF_DRAFT_OPTIONS_PER_PL
             # Writes detailed draft into
             detailed_draft_string_builder.append(f"Country {index}: {row['nation']} ({row['leader']})")
             detailed_draft_string_builder.append(f"-- Country Ability: '{row['ability_name']}'\n{row['ability_desc']}")
-            detailed_draft_string_builder.append(f"-- Leader Ability: '{row['bonus_name']}''\n{row['bonus_desc']}'\n\n")
+            detailed_draft_string_builder.append(f"-- Leader Ability: '{row['bonus_name']}'\n{row['bonus_desc']}'\n")
             index += 1
 
     # Outputs the draft strings to files

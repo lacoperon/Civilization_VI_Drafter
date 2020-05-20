@@ -1,40 +1,40 @@
 -- Jasper --
-Inca (Pachacuti)
-Macedon (Alexander)
-Persia (Cyrus)
-Cree (Poundmaker)
--- Jason --
-Zulu (Shaka)
-Russia (Peter)
-Maori (Kupe)
-Phoenicia (Dido)
--- Connor --
-Mongolia (Genghis Khan)
-India (Chandragupta)
-Georgia (Tamar)
-America (Teddy Roosevelt)
--- Elliot --
-Aztec (Montezuma)
-Scotland (Robert the Bruce)
-Khmer (Jayavarman VII)
-Spain (Philip II)
--- Liz --
-Maya (Lady Six Sky)
-Germany (Frederick Barbarossa)
-England (Eleanor of Aquataine)
-England (Victoria)
--- Jaspers_Other_Friend --
-Netherlands (Wilhelmina)
-Greece (Pericles)
-Hungary (Matthias Corvinus)
-Mali (Mansa Musa)
--- Anita --
-Scythia (Tomyris)
-Gran Colombia (Simon Bolivar)
-Japan (Hojo Tokimune)
-China (Qin Shi Huang)
--- Jeremiah --
-Korea (Seondeok)
 Brazil (Pedro II)
-Australia (John Curtin)
+Korea (Seondeok)
+Khmer (Jayavarman VII)
+Netherlands (Wilhelmina)
+-- Jason --
+Ottoman (Suleiman)
+Egypt (Cleopatra)
+Arabia (Saladin)
+Georgia (Tamar)
+-- Connor --
+Persia (Cyrus)
+Mali (Mansa Musa)
+Maya (Lady Six Sky)
+France (Eleanor of Aquataine)
+-- Elliot --
+Mongolia (Genghis Khan)
+China (Qin Shi Huang)
+Hungary (Corvinius)
+Scotland (Robert the Bruce)
+-- Liz --
+Gran Colombia (Simon Bolivar)
+India (Chandragupta)
+America (Teddy Roosevelt)
+France (Catherine de Medici)
+-- Jaspers_Other_Friend --
+Nubia (Amanitore)
+England (Victoria)
+Maori (Kupe)
 Sweden (Kristina)
+-- Anita --
+Canada (Wilfred Laurier)
+Zulu (Shaka)
+Sumeria (Gilgamesh)
+Russia (Peter)
+-- Jeremiah --
+Poland (Jadwiga)
+India (Gandhi)
+Indonesia (Gitarja)
+Australia (John Curtin)
